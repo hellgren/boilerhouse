@@ -1,18 +1,20 @@
 import React from "react";
 import styled from "@emotion/styled";
-import Button from "@material-ui/core/Button";
 
 const Wrapper = styled.div`
   display: flex;
   justify-content: center;
 `;
 
+const Button = styled.button`
+  background-color: lightgrey;
+  padding: 20px;
+`;
+
 const Homepage = () => {
   return (
     <Wrapper>
-      <Button variant="contained" color="primary">
-        Hello World
-      </Button>
+      <Button>Hello World</Button>
     </Wrapper>
   );
 };
