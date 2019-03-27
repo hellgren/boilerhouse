@@ -1,21 +1,27 @@
 import React from "react";
 import styled from "@emotion/styled";
+import BaseLayout from "components/layouts/Base";
 
 const Wrapper = styled.div`
   display: flex;
   justify-content: center;
+  background-color: black;
+  height: 100%;
 `;
 
-const Button = styled.button`
-  background-color: lightgrey;
+const Headline = styled.div`
+  color: white;
+  font-size: 40px;
   padding: 20px;
 `;
 
 const Homepage = () => {
   return (
-    <Wrapper>
-      <Button>Hello World</Button>
-    </Wrapper>
+    <BaseLayout>
+      <Wrapper>
+        <Headline>Boilerhouse</Headline>
+      </Wrapper>
+    </BaseLayout>
   );
 };
 
