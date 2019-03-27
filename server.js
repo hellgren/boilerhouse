@@ -37,11 +37,13 @@ app
 
     server.get("*", (req, res) => handle(req, res));
 
-    server.listen(3000, err => {
+    server.listen(process.env.port || 3000, err => {
       if (err) throw err;
       // eslint-disable-next-line no-console
       console.log(
-        `> Ready on http://localhost:3000 - NODE_ENV=${process.env.NODE_ENV}.`
+        `> Ready on http://localhost:§{process.env.port} - NODE_ENV=${
+          process.env.NODE_ENV
+        }.`
       );
     });
   })

@@ -8,9 +8,9 @@
   },
   "license": "UNLICENSED",
   "scripts": {
-    "dev": "node server.js",
+    "dev": "node server.js -p $PORT",
     "build": "next build",
-    "start": "node server.js",
+    "start": "node server.js -p $PORT",
     "heroku-postbuild": "next build",
     "test": "npm run lint",
     "lint": "npm run lint:js && npm run lint:css",
