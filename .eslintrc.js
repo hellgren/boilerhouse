@@ -10,5 +10,12 @@ module.exports = {
     "no-unused-vars": ["error", { extensions: [".js", ".jsx"] }],
     "react/forbid-prop-types": [0],
     "react/jsx-one-expression-per-line": [0]
+  },
+  settings: {
+    "import/resolver": {
+      "babel-module": {
+        root: ["./"]
+      }
+    }
   }
 };
