@@ -1,4 +1,5 @@
-# homepage
+# Boilerhouse
+An Express + Next.js boilerplate/scaffold
 <!-- Build Status -->
 <a href="https://travis-ci.org/hellgren/homepage">
   <img src="https://travis-ci.org/hellgren/homepage.svg" alt="Build Status" />
