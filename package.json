@@ -1,10 +1,10 @@
 {
-  "name": "homepage",
+  "name": "boilerhouse",
   "version": "1.0.0",
   "author": "Jonas Hellgren",
-  "homepage": "https://github.com/hellgren/homepage#readme",
+  "homepage": "https://github.com/hellgren/boilerhouse#readme",
   "bugs": {
-    "url": "https://github.com/hellgren/homepage/issues"
+    "url": "https://github.com/hellgren/boilerhouse/issues"
   },
   "license": "UNLICENSED",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hellgren/homepage.git"
+    "url": "git+https://github.com/hellgren/boilerhouse.git"
   },
   "dependencies": {
     "@emotion/core": "^10.0.10",
