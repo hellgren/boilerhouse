@@ -16,6 +16,7 @@ An Express + Next.js boilerplate/scaffold
 <a href="https://snyk.io/test/github/hellgren/boilerhouse/badge.svg">
   <img src="https://snyk.io/test/github/hellgren/boilerhouse/badge.svg" alt="Vulnerabilities Status" />
 </a>
+
 ## Setup
 
 ```bash
