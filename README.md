@@ -12,11 +12,10 @@ An Express + Next.js boilerplate/scaffold
 <a href="https://david-dm.org/hellgren/boilerhouse#info=devDependencies">
   <img src="https://david-dm.org/hellgren/homepage/dev-status.svg" alt="devDependency Status" />
 </a>
+<!-- Vulnerabilities Status -->
 <a href="https://snyk.io/test/github/hellgren/boilerhouse/badge.svg">
   <img src="https://snyk.io/test/github/hellgren/boilerhouse/badge.svg" alt="Vulnerabilities Status" />
 </a>
-https://snyk.io/test/github/hellgren/boilerhouse/badge.svg
-
 ## Setup
 
 ```bash
