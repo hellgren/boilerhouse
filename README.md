@@ -2,7 +2,7 @@
 An Express + Next.js boilerplate/scaffold
 <!-- Build Status -->
 <a href="https://travis-ci.org/hellgren/boilerhouse">
-  <img src="https://travis-ci.org/hellgren/homepage.svg" alt="Build Status" />
+  <img src="https://travis-ci.org/hellgren/boilerhouse.svg" alt="Build Status" />
 </a>
 <!-- Dependency Status -->
 <a href="https://david-dm.org/hellgren/boilerhouse">
