@@ -1,17 +1,21 @@
 # Boilerhouse
 An Express + Next.js boilerplate/scaffold
 <!-- Build Status -->
-<a href="https://travis-ci.org/hellgren/homepage">
+<a href="https://travis-ci.org/hellgren/boilerhouse">
   <img src="https://travis-ci.org/hellgren/homepage.svg" alt="Build Status" />
 </a>
 <!-- Dependency Status -->
-<a href="https://david-dm.org/hellgren/homepage">
+<a href="https://david-dm.org/hellgren/boilerhouse">
   <img src="https://david-dm.org/hellgren/homepage.svg" alt="Dependency Status" />
 </a>
 <!-- devDependency Status -->
-<a href="https://david-dm.org/hellgren/homepage#info=devDependencies">
+<a href="https://david-dm.org/hellgren/boilerhouse#info=devDependencies">
   <img src="https://david-dm.org/hellgren/homepage/dev-status.svg" alt="devDependency Status" />
 </a>
+<a href="https://snyk.io/test/github/hellgren/boilerhouse/badge.svg">
+  <img src="https://snyk.io/test/github/hellgren/boilerhouse/badge.svg" alt="Vulnerabilities Status" />
+</a>
+https://snyk.io/test/github/hellgren/boilerhouse/badge.svg
 
 ## Setup
 
